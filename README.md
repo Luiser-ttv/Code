@@ -1,6 +1,7 @@
 Its a Snake Game made in python. One is made to play it on the shell and the another is made with tkinter.
 
 This is the basic one on the shell.
+
 <img width="434" alt="Captura de pantalla 2021-09-20 a las 12 25 09" src="https://user-images.githubusercontent.com/58303209/133987957-d2f0387a-11ab-40d9-84f9-73d073bc5ff0.png">
 
 This the Tkinter Snake Game.
